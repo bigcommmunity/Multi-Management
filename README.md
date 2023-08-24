@@ -66,7 +66,7 @@ Storage: At least 20 GB<br>
 
 برای نصب کافیست دستور زیر را وارد کنید<br>
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/xpanel-cp/Xcs-Multi-Management-XPanel/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/bigcommmunity/Multi-Management/master/install.sh --ipv4)
 ```
 <br>
 
