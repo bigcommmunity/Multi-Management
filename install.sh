@@ -30,10 +30,10 @@ echo -e "${GREEN}  1)Xcs v 1.0"
 echo -ne "${GREEN}\nSelect Version : ${ENDCOLOR}" ;read n
 if [ "$n" != "" ]; then
 if [ "$n" == "1" ]; then
-linkd=https://api.github.com/repos/xpanel-cp/Xcs-Multi-Management-XPanel/releases/tags/xcsv1-0
+linkd=https://api.github.com/repos/bigcommmunity/Multi-Management/releases/tags/xcsv1-0
 fi
 else
-linkd=https://api.github.com/repos/xpanel-cp/Xcs-Multi-Management-XPanel/releases/tags/xcsv1-0
+linkd=https://api.github.com/repos/bigcommmunity/Multi-Management/releases/tags/xcsv1-0
 fi
 
 echo -e "\nPlease input IP Server"
